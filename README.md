@@ -14,7 +14,7 @@ This React application displays a collection of recipe blocks, each pulling info
 
 Demo [link](https://react-app-recipes-01.netlify.app/)
 
-## Demo
+## Screenshot
 
 ![screenshot react app recipes ](https://irwinborjas.com/wp-content/uploads/2024/09/recipes_app.jpg)
 
