@@ -16,8 +16,7 @@ Demo [link](https://react-app-recipes-01.netlify.app/)
 
 ## Demo
 
-![screenshot react todo list](https://irwinborjas.com/wp-content/uploads/2024/09/Screenshot-2024-09-04-at-9.18.42-AM.png)
-![screenshot react todo list](https://irwinborjas.com/wp-content/uploads/2024/07/angular_slider.png)
+![screenshot react app recipes ](https://irwinborjas.com/wp-content/uploads/2024/09/recipes_app.jpg)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://irwinborjas.com/)
